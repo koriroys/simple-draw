@@ -1,0 +1,16 @@
+#referencePicture{
+  float: left;
+  width:300;
+  height:300;
+}
+
+#canvasDiv {
+
+}
+#canvas {
+  background-color:#CCC;
+}
+
+#referencePicture {
+}
+
